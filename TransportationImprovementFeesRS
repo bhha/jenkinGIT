@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<template xmlns='http://www.blazesoft.com/template' name='TransportationImprovementFeesRS'>
+ <ide-name>TransportationImprovementFeesRS</ide-name>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1AHn6PJKGLLZxwrxEdTkQ7Xs2m7' name='SRL Ruleset' id='LEMmXTvVJOfTZhpqOS0oOWbf1nj'>
+  <instance ref='Test Role'>
+   <instance ref='value'>
+    <value>None</value>
+   </instance>
+  </instance>
+  <instance ref='Test Case'>
+   <instance ref='value'>
+    <value></value>
+   </instance>
+  </instance>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='HafAjoTLG8TXaPLb5S6XqaGkRWw'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='Di6Fqf5SrDIAwNfk4QqRvFPmaFS'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='2yqdA0IcBvqZ8CRclWthGr06KyV'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='TGjrfjR7RRQtBjYDbojrQNqJ6Li'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='IQJwHpSwN8eUqmXvrOJVJ9KHBqf'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='5htpIlx5FykXmnSwVMEPY5Pv1BC'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='7DQq3PzPGDgrqvSjW2h898732Vv'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='GBnAjaoGVM3eyK9K9CiMBgUjI1L'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='JKxVbRj7Cwl1DrfdvC3TPmi1EfY'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='5wrZoh5Y2nzn8FpXrLg94zV1oQE'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='Uek4KihDDI1pBymTHMmS2G7gV8E'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='9E7QXsULl1HWX0uQcMCKH123LFn'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='O999VfQDKSeD9JQtXxlLwvjQXt0'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='JK6rkPQjUt3AqsBZhQoxcJje4Yx'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='3cQLyxr0x0AiyoQYQpIbOE8Qakj'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='Ye0p2XsflMmcZlKwl9Y2VKzZDTr'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='JJCHzcpxsNuDJFc3PNVdzCedzmk'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='E20H498q0NzduDdL0GarlQQ13sx'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='76cLyj2Ciek80sWOsqksmXMMk0A'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='5nOEVNbPgdFzdJ8ZLl9u0myOLjF'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='4slSM0AcAm9bb3CiqIhvVNBi8qI'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='vHomnK1osZ6j5iEKnZPkVXiFmh'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='J9NUIRwpcZcf7wxPEanzmnv9EY4'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='FDNAH1M3mBgRlDK3CUedyJfw68V'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='2oRLngHNgbu2pHnd6KVmLB0Puof'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='6Kb9XHJSgOTBtkDKSrzaz0bso34'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='CI1djn4GC3xqeWqWY9fgLC5ET0o'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='5b5Eqys452A6MQhQhUPwcfn8PHf'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='PnwVNap9GIMjd74mr56gd2lx9Or'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='EXycFEVKKKCSMq4MFbtPQ7Kj3mI'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='7HxGMZpF2IcT7hEz0jZhpFVAFL8'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='T67knZQl03sRsEYSCOkwWwP6lFR'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='18uqQPJXnTmKrAiLEOVcQMUAFmD' name='Entry' id='Entry'>
+  <instance ref='Source Reference'>
+   <instance ref='value'>
+    <instance ref='locationVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryNameVH'>
+     <value></value>
+    </instance>
+    <instance ref='versionVH'>
+     <value></value>
+    </instance>
+    <instance ref='filterVH'>
+     <value></value>
+    </instance>
+    <instance ref='releaseDateVH'>
+     <value></value>
+    </instance>
+    <instance ref='repositoryAccessVH'>
+     <value></value>
+    </instance>
+   </instance>
+  </instance>
+  <instance ref='Predictive Model Type'>
+   <instance ref='value'>
+    <value>NotApplicable</value>
+   </instance>
+  </instance>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1e4Fwj577fuGSTbTbZVTMCQNc91' name='SRL Rule' id='9lo574H7NrSNMo3Wqdd2n4TEHnW'>
+ </instantiation>
+ <instantiation xmlns='http://www.blazesoft.com/instantiation' template='1DRDrpW6ok6ZGNee0wO8XQa1Qwc' name='SRL Variable' id='PIHaLczTZhuzgr9ZBtkJai9XijD'>
+ </instantiation>
+ <family>Ruleset Template</family>
+ <template:content xmlns:template='http://www.blazesoft.com/template' xmlns='http://www.blazesoft.com/srl' section='srl'><ruleset managementPropertiesRef='LEMmXTvVJOfTZhpqOS0oOWbf1nj'>
+   <comment></comment>
+   <name>TransportationImprovementFeesRS</name>
+   <functional-execution-mode>compiled sequential</functional-execution-mode>
+   <ruleset-body>
+    <variable managementPropertiesRef='PIHaLczTZhuzgr9ZBtkJai9XijD'>
+     <name>bhhaTMP</name>
+     <type>money</type>
+    </variable>
+    <variable managementPropertiesRef='HafAjoTLG8TXaPLb5S6XqaGkRWw'>
+     <name>tifExemption</name>
+     <type>boolean</type>
+     <initializer>false</initializer>
+    </variable>
+    <variable managementPropertiesRef='Di6Fqf5SrDIAwNfk4QqRvFPmaFS'>
+     <comment></comment>
+     <name>midpointValue</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='2yqdA0IcBvqZ8CRclWthGr06KyV'>
+     <comment></comment>
+     <name>midpointValuePrevious</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='TGjrfjR7RRQtBjYDbojrQNqJ6Li'>
+     <comment></comment>
+     <name>currentMarketValue</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='IQJwHpSwN8eUqmXvrOJVJ9KHBqf'>
+     <comment></comment>
+     <name>firstPriorMarketValue</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='5htpIlx5FykXmnSwVMEPY5Pv1BC'>
+     <comment></comment>
+     <name>secondPriorMarketValue</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='7DQq3PzPGDgrqvSjW2h898732Vv'>
+     <comment></comment>
+     <name>thirdPriorMarketValue</name>
+     <type some='false'>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='GBnAjaoGVM3eyK9K9CiMBgUjI1L'>
+     <comment></comment>
+     <name>currentDepreciationRate</name>
+     <type some='false'>real</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='JKxVbRj7Cwl1DrfdvC3TPmi1EfY'>
+     <comment></comment>
+     <name>firstPriorDepreciationRate</name>
+     <type some='false'>real</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='5wrZoh5Y2nzn8FpXrLg94zV1oQE'>
+     <comment></comment>
+     <name>secondPriorDepreciationRate</name>
+     <type some='false'>real</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='Uek4KihDDI1pBymTHMmS2G7gV8E'>
+     <comment></comment>
+     <name>thirdPriorDepreciationRate</name>
+     <type some='false'>real</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='9E7QXsULl1HWX0uQcMCKH123LFn'>
+     <comment></comment>
+     <name>currentPeriodMonths</name>
+     <type some='false'>integer</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='O999VfQDKSeD9JQtXxlLwvjQXt0'>
+     <comment></comment>
+     <name>firstPriorPeriodMonths</name>
+     <type some='false'>integer</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='JK6rkPQjUt3AqsBZhQoxcJje4Yx'>
+     <comment></comment>
+     <name>secondPriorPeriodMonths</name>
+     <type some='false'>integer</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='3cQLyxr0x0AiyoQYQpIbOE8Qakj'>
+     <comment></comment>
+     <name>thirdPriorPeriodMonths</name>
+     <type some='false'>integer</type>
+     <initializer>0</initializer>
+    </variable>
+    <variable managementPropertiesRef='Ye0p2XsflMmcZlKwl9Y2VKzZDTr'>
+     <name>currentTIF</name>
+     <type>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='JJCHzcpxsNuDJFc3PNVdzCedzmk'>
+     <name>firstPriorTIF</name>
+     <type>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='E20H498q0NzduDdL0GarlQQ13sx'>
+     <name>secondPriorTIF</name>
+     <type>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <variable managementPropertiesRef='76cLyj2Ciek80sWOsqksmXMMk0A'>
+     <name>thirdPriorTIF</name>
+     <type>money</type>
+     <initializer>$0</initializer>
+    </variable>
+    <rule managementPropertiesRef='5nOEVNbPgdFzdJ8ZLl9u0myOLjF'>
+     <name>TIFExemptionHistoricalVehicle</name>
+     <priority immediate='true'></priority>
+     <body>if typeLicense.historicalVehicle<template:br/>then tifExemption is true.</body>
+    </rule>
+    <rule managementPropertiesRef='9lo574H7NrSNMo3Wqdd2n4TEHnW'>
+     <name>TIFExemptionUnladenWeight</name>
+     <body><![CDATA[if feeVehicle.unladenWeight > 10000]]><template:br/>then tifExemption is true.</body>
+    </rule>
+    <rule managementPropertiesRef='4slSM0AcAm9bb3CiqIhvVNBi8qI'>
+     <comment></comment>
+     <name>MidpointValue</name>
+     <priority immediate='true'></priority>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body><![CDATA[if  (feeVehicle.vlfClass is known and feeVehicle.vlfClass <> null)]]><template:br/>then midpointValue = setMidpointRS(feeVehicle.vlfClass, feeVehicle.vehicleCostValue, feeVehicle.purchasePrice).</body>
+    </rule>
+    <rule managementPropertiesRef='vHomnK1osZ6j5iEKnZPkVXiFmh'>
+     <comment></comment>
+     <name>MidpointValuePrevious</name>
+     <priority immediate='true'></priority>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body><![CDATA[if  (feeVehicle.vlfClassPrevious is known and feeVehicle.vlfClassPrevious <> null)]]><template:br/>then midpointValuePrevious = setMidpointRS(feeVehicle.vlfClassPrevious, feeVehicle.vehicleCostValuePrevious, $0.00).</body>
+    </rule>
+    <rule managementPropertiesRef='J9NUIRwpcZcf7wxPEanzmnv9EY4'>
+     <comment>// months set to 3 since it is a 90 day registration
+</comment>
+     <name>CurrentTIFNonResidentTemporaryRegistration</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    currentFeeDue and<template:br/>    nonResidentNinetyDayTemporaryCommercialRegistration<template:br/>)<template:br/>then {<template:br/>    currentMarketValue = setMidpointValueRS(midpointValue , midpointValuePrevious , currentPeriod.dueDate),<template:br/>    currentDepreciationRate = setDepreciationRateRS (false, currentPeriod.pyr, currentPeriod.feeDate, currentPeriod.dueDate, currentPeriod.endDate),<template:br/>    currentPeriodMonths = 3,<template:br/>    currentTIF  = getOneFourthFee(TransportationImprovementTableRS(currentMarketValue, currentDepreciationRate, currentPeriod.dueDate)),                                                                           <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='FDNAH1M3mBgRlDK3CUedyJfw68V'>
+     <comment>// are not to receive offsets nor waiver codes.
+</comment>
+     <name>CurrentTIFSchoolBusTemporaryRegistration</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    currentFeeDue and<template:br/>    schoolBusTemporaryCommercialRegistration<template:br/>)<template:br/>then {<template:br/>    currentMarketValue = setMidpointValueRS(midpointValue , midpointValuePrevious , currentPeriod.dueDate),<template:br/>    currentDepreciationRate = setDepreciationRateRS (false, currentPeriod.pyr, currentPeriod.feeDate, currentPeriod.dueDate, currentPeriod.endDate),<template:br/>    currentPeriodMonths = getMonthsRS(currentPeriod.pyr, , currentPeriod.endDate, currentPeriod.dueDate),<template:tab/><template:br/>    currentTIF  = ((TransportationImprovementTableRS(currentMarketValue, currentDepreciationRate, currentPeriod.dueDate) as a real / 12) * currentPeriodMonths) as a money,            <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='2oRLngHNgbu2pHnd6KVmLB0Puof'>
+     <comment></comment>
+     <name>CurrentTIF</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    currentFeeDue and<template:br/>    not nonResidentNinetyDayTemporaryCommercialRegistration and <template:br/>    not schoolBusTemporaryCommercialRegistration and<template:br/>    //not currentPeriod.cvra and<template:br/>    not currentPeriod.pti and<template:br/>    not currentPeriod.pyrPreviouslyPaid and<template:br/>    not typeLicense.horselessCarriage <template:br/>)<template:br/>then {<template:br/>    currentMarketValue = setMidpointValueRS(midpointValue, midpointValuePrevious, currentPeriod.dueDate),<template:br/>    currentDepreciationRate = setDepreciationRateRS (false, currentPeriod.pyr, currentPeriod.feeDate, currentPeriod.dueDate, currentPeriod.endDate),<template:br/>    print("currentDepreciationRate: " currentDepreciationRate "\tcurrentMarketValue: " currentMarketValue),    <template:br/>currentTIF  = TransportationImprovementTableRS(currentMarketValue, currentDepreciationRate, currentPeriod.dueDate),                                                                                                           <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='6Kb9XHJSgOTBtkDKSrzaz0bso34'>
+     <comment></comment>
+     <name>FirstPriorTIF</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    firstPriorFeeDue and<template:br/>    //not firstPriorPeriod.cvra and<template:br/>    not firstPriorPeriod.pti and<template:br/>    not firstPriorPeriod.pyrPreviouslyPaid and<template:br/>    not typeLicense.horselessCarriage <template:br/>) <template:br/>then { <template:br/>    firstPriorMarketValue = setMidpointValueRS(midpointValue, midpointValuePrevious, firstPriorPeriod.dueDate),<template:br/>    firstPriorDepreciationRate = setDepreciationRateRS(false, firstPriorPeriod.pyr, firstPriorPeriod.feeDate, firstPriorPeriod.dueDate, firstPriorPeriod.endDate), <template:br/>    firstPriorTIF = TransportationImprovementTableRS(firstPriorMarketValue, firstPriorDepreciationRate, firstPriorPeriod.dueDate),     <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='CI1djn4GC3xqeWqWY9fgLC5ET0o'>
+     <comment></comment>
+     <name>SecondPriorTIF</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    secondPriorFeeDue and<template:br/>    //not secondPriorPeriod.cvra and<template:br/>    not secondPriorPeriod.pti and<template:br/>    not secondPriorPeriod.pyrPreviouslyPaid and<template:br/>    not typeLicense.horselessCarriage <template:br/>) <template:br/>then { <template:br/>    secondPriorMarketValue = setMidpointValueRS(midpointValue, midpointValuePrevious, secondPriorPeriod.dueDate),  <template:br/>    secondPriorDepreciationRate = setDepreciationRateRS(false, secondPriorPeriod.pyr, secondPriorPeriod.feeDate, secondPriorPeriod.dueDate, secondPriorPeriod.endDate), <template:br/>    secondPriorTIF = TransportationImprovementTableRS(secondPriorMarketValue, secondPriorDepreciationRate, secondPriorPeriod.dueDate),     <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='5b5Eqys452A6MQhQhUPwcfn8PHf'>
+     <comment></comment>
+     <name>ThirdPriorTIF</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/>    thirdPriorFeeDue and<template:br/>    //not thirdPriorPeriod.cvra and<template:br/>    not thirdPriorPeriod.pti and<template:br/>    not thirdPriorPeriod.pyrPreviouslyPaid and<template:br/>    not typeLicense.horselessCarriage <template:br/>)<template:br/>then {<template:br/>    thirdPriorMarketValue = setMidpointValueRS(midpointValue, midpointValuePrevious, thirdPriorPeriod.dueDate),<template:br/>    thirdPriorDepreciationRate = setDepreciationRateRS(false, thirdPriorPeriod.pyr, thirdPriorPeriod.feeDate, thirdPriorPeriod.dueDate, thirdPriorPeriod.endDate), <template:br/>    thirdPriorTIF = TransportationImprovementTableRS(thirdPriorMarketValue, thirdPriorDepreciationRate, thirdPriorPeriod.dueDate),         <template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='PnwVNap9GIMjd74mr56gd2lx9Or'>
+     <comment></comment>
+     <name>AssignCurrentFee316</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/><![CDATA[    currentTIF > $0 and ]]><template:br/><![CDATA[    feeVehicle.plannedNonOperation <> "Y" and]]><template:tab/>//BHHA defect 170 added checking for PN0<template:br/>    not tifExemption and <template:br/>    not timelyPlannedNonOperationRequest<template:br/>)<template:br/>then {<template:br/>    assignFee("316", currentTIF).<template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='EXycFEVKKKCSMq4MFbtPQ7Kj3mI'>
+     <comment></comment>
+     <name>AssignFirstPriorFee317</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/><![CDATA[    firstPriorTIF > $0 and ]]><template:br/>    not tifExemption and <template:br/>    not firstPriorPeriod.feeCoveredByCno and<template:br/>    not firstPriorPeriod.feeCoveredByDid<template:br/>) <template:br/>then {<template:br/>    assignFee("317", firstPriorTIF).<template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='7HxGMZpF2IcT7hEz0jZhpFVAFL8'>
+     <comment></comment>
+     <name>AssignSecondPriorFee318</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/><![CDATA[    secondPriorTIF > $0 and ]]><template:br/>    not tifExemption and <template:br/>    not secondPriorPeriod.feeCoveredByCno and<template:br/>    not secondPriorPeriod.feeCoveredByDid<template:br/>) <template:br/>then {<template:br/>   assignFee("318", secondPriorTIF).<template:br/>}</body>
+    </rule>
+    <rule managementPropertiesRef='T67knZQl03sRsEYSCOkwWwP6lFR'>
+     <comment></comment>
+     <name>AssignThirdPriorFee319</name>
+     <execution-mode></execution-mode>
+     <temporal-constraints everyday='false'></temporal-constraints>
+     <body>if  (<template:br/><![CDATA[    thirdPriorTIF> $0 and ]]><template:br/>    not tifExemption and <template:br/>    not thirdPriorPeriod.feeCoveredByCno and <template:tab/><template:br/>    not thirdPriorPeriod.feeCoveredByDid<template:tab/><template:tab/><template:br/>)<template:br/>then {<template:br/>    assignFee("319", thirdPriorTIF).<template:br/>}</body>
+    </rule>
+   </ruleset-body>
+  </ruleset></template:content>
+</template>

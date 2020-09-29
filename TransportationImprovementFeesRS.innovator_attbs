@@ -1,0 +1,23 @@
+#Extended attributes for Eclipse file-based repository (directory: 'TransportationImprovementFeesRS')
+#Fri Aug 07 15:55:17 PDT 2020
+contentType=Fixed
+entryLastCheckInTime=8/7/20 3\:55 PM
+entryLastCheckInUser=mwbhh2
+guid=G3Ndb6dXoyd2FXUbjOa5nr0b7SY
+innovatorDisplayName=TransportationImprovementFeesRS
+innovatorItemCreationId=mwbhh2
+innovatorItemVersionId=5
+innovatorLastModifiedUser=mwbhh2
+innovatorName=TransportationImprovementFeesRS
+managementProperty.Predictive\ Model\ Type=NotApplicable
+managementProperty.Source\ Reference.filterVH=
+managementProperty.Source\ Reference.locationVH=
+managementProperty.Source\ Reference.releaseDateVH=
+managementProperty.Source\ Reference.repositoryAccessVH=
+managementProperty.Source\ Reference.repositoryNameVH=
+managementProperty.Source\ Reference.versionVH=
+managementProperty.Test\ Case=
+managementProperty.Test\ Role=None
+subType=None
+target=SRL
+type=SRL Ruleset
